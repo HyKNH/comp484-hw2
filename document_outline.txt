@@ -1,0 +1,3 @@
+Tags such as <aside> are used for side info that are not the main part of the page, <article> tells us that the content
+is standalone. <nav> is used to classify parts of the site that have links for navigation. Lastly section is used for
+subsections in the article tag.
